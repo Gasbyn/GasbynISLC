@@ -1,10 +1,10 @@
 {
   "StandbyListValue": "1024",
-  "FreeMemoryValue": "1024",
-  "StartMinimized": false,
+  "FreeMemoryValue": "2048",
+  "StartMinimized": true,
   "AlwaysOnTop": false,
-  "CustomTimer": false,
-  "WantedResolution": 1.0,
+  "CustomTimer": true,
+  "WantedResolution": 0.5,
   "PollingRateSTR": "1000",
   "ExclusionList": [],
   "DarkMode": true
